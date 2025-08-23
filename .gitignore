@@ -1,6 +1,4 @@
 tft-env/
 .ipynb_checkpoints/
 time-series-prediction/README.md
-time-series-prediction/lightning_logs/version_0/hparams.yaml
-time-series-prediction/lightning_logs/version_0/checkpoints/epoch=2-step=846.ckpt
-time-series-prediction/lightning_logs/version_0/metrics.csv
+time-series-prediction/lightning_logs/
