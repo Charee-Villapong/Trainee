@@ -1,4 +1,5 @@
 tft-env/
 .ipynb_checkpoints/
 time-series-prediction/README.md
+time-series-prediction/lightning_logs/version_0
 time-series-prediction/lightning_logs/
