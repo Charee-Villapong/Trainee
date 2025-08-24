@@ -2,7 +2,7 @@
 
 > 大手通信関連企業の株価データを用いた高精度時系列予測システム
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
