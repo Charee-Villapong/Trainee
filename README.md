@@ -1,6 +1,6 @@
 # 📈 Time Series Stock Price Prediction
 
-> 大手通信関連企業の株価データを用いた高精度時系列予測システム
+> 大手通信関連企業の株価データを用いた時系列予測システム
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)
