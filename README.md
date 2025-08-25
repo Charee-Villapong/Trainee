@@ -12,7 +12,7 @@
 
 ### ✨ 主な特徴
 
-- **🤖 複数モデル対応**: Prophet と Temporal Fusion Transformer (PyTorch Forecasting) を使用
+- **🤖 モデル**: Prophetを使用
 - **📊 高精度予測**: MAPE（Mean Absolute Percentage Error）による厳密な精度評価
 - **🐳 Docker完全対応**: 環境構築の煩わしさを排除
 - **📓 Jupyter Notebook**: インタラクティブな分析・可視化環境
