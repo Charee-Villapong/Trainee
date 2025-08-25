@@ -22,7 +22,6 @@
 | カテゴリ | 技術 | 用途 |
 |----------|------|------|
 | **予測モデル** | Prophet | 時系列予測（Facebook製） |
-| **深層学習** | PyTorch Forecasting | Temporal Fusion Transformer |
 | **環境構築** | Docker | コンテナ化・環境統一 |
 | **開発環境** | Jupyter Lab | インタラクティブ分析 |
 | **評価指標** | MAPE | 予測精度測定 |
