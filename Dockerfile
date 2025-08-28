@@ -31,5 +31,5 @@ COPY time-series-prediction /work/time-series-prediction
 # ポートを公開
 EXPOSE 8888
 
-# Jupyter Notebook を起動
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
+# Jupyter lab を起動
+CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
